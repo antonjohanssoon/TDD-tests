@@ -1,0 +1,11 @@
+C:\Users\johan\source\repos\MainProject\Functionality\bin\Debug\net8.0\Functionality.deps.json
+C:\Users\johan\source\repos\MainProject\Functionality\bin\Debug\net8.0\Functionality.dll
+C:\Users\johan\source\repos\MainProject\Functionality\bin\Debug\net8.0\Functionality.pdb
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\Functionality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\Functionality.AssemblyInfoInputs.cache
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\Functionality.AssemblyInfo.cs
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\Functionality.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\Functionality.dll
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\refint\Functionality.dll
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\Functionality.pdb
+C:\Users\johan\source\repos\MainProject\Functionality\obj\Debug\net8.0\ref\Functionality.dll
